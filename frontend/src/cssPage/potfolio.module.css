@@ -86,22 +86,22 @@
 
 .outlinedText {
   font-weight: bold;
-  color: white; /* The fill color */
-  -webkit-text-stroke: 1px #121212; /* Black outline */
+  color: white; 
+  -webkit-text-stroke: 1px #121212;
   text-align: center;
 }
 
 .showcaseContainer {
-  background-color: lightgrey; /* Optional: Set a light background */
+  background-color: lightgrey; 
   padding: 5px 5px 0px 0px;
 }
 .carousel img {
-  height: 450px; /* Adjust height as needed */
+  height: 450px;
   object-fit: cover;
   border-radius: 0px 0px 90px 90px !important;
 }
 .carousel video {
-  height: 450px; /* Adjust height as needed */
+  height: 450px;
   object-fit: contain;
   border-radius: 0px 0px 90px 90px !important;
 }
@@ -192,12 +192,12 @@
 }
 
 .icon {
-  color: #007bff; /* Icon color */
+  color: #007bff; 
   font-size: 24px;
 }
 
 a {
-  color: #007bff; /* Link color */
+  color: #007bff; 
   text-decoration: none;
 }
 
